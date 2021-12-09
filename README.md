@@ -1,0 +1,2 @@
+# leetcode
+code go brrr 🚀
